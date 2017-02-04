@@ -1,3 +1,5 @@
+/* Created: 06/1/2017 by Ali Sepehri (MasterCna) | Version: 1.00 */
+
 #include <stdlib.h>
 #include <conio.h>
 #include <setjmp.h>
