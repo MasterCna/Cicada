@@ -1,3 +1,5 @@
+/* Created: 04/1/2017 by Ali Sepehri (MasterCna) | Version: 1.00 */
+
 #define DELIMITER 1
 #define VARIABLE  2
 #define NUMBER    3
